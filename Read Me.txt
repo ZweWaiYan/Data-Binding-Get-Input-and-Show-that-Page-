@@ -1,0 +1,1 @@
+Data input ထည့်လိုက်ရင် အဲ Page မှာပဲ ထည့်ထားတဲ့ Input ကိုပြန်ပြတဲ့ Program
